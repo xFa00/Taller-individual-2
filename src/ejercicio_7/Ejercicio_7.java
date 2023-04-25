@@ -9,8 +9,8 @@ public class Ejercicio_7 {
 
    
     public static void main(String[] args) {
-     VentanaPrincipal ventana= new VentanaPrincipal(); //Constructor ventana
-     ventana.setVisible(true);//Metodo para hacer visible la ventana
+      VentanaPrincipal ventana= new VentanaPrincipal(); //Constructor ventana
+      ventana.setVisible(true);//Metodo para hacer visible la ventana
     }
     
 }

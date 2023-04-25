@@ -8,11 +8,11 @@ package ejercicio_7;
 public class condicional {
     public static String mayor_menor(double a, double b){
         if(a<b){
-            return "El valor B es mayor que A ";
+           return "El valor B es mayor que A ";
         }else if(a>b){
-            return "El valor A es mayor que B ";
+           return "El valor A es mayor que B ";
         }else{
-            return"Los valores son iguales ";
+           return"Los valores son iguales ";
         }     
    } 
 }
