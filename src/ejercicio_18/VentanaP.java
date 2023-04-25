@@ -157,7 +157,7 @@ public class VentanaP extends javax.swing.JFrame {
     }//GEN-LAST:event_txtNombreEmpleadoActionPerformed
 
     private void txtHorastrabajadasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtHorastrabajadasActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_txtHorastrabajadasActionPerformed
 
     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
