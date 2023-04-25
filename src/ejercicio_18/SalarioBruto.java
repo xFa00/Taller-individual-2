@@ -9,5 +9,6 @@ public class SalarioBruto {
     double salarioB;    
     salarioB = horasT*valorH;
     return salarioB;
+    
     } 
 }
