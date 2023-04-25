@@ -5,10 +5,7 @@ package ejercicio_18;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author ACER
- */
+
 public class VentanaP extends javax.swing.JFrame {
 
     /**

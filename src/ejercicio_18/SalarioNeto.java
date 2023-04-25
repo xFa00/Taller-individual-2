@@ -10,6 +10,6 @@ public class SalarioNeto {
         double salarioN;
         retencion= salarioB*(retencion/100);
         salarioN = salarioB-retencion;
-         return salarioN;
+        return salarioN;
     }
 }
