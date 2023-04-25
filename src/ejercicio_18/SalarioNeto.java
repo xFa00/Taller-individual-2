@@ -7,9 +7,9 @@ package ejercicio_18;
 
 public class SalarioNeto {
     public static double CalcularSalarioNeto(double salarioB, double retencion){
-        double salarioN;
-        retencion= salarioB*(retencion/100);
-        salarioN = salarioB-retencion;
-        return salarioN;
+       double salarioN;
+       retencion= salarioB*(retencion/100);
+       salarioN = salarioB-retencion;
+       return salarioN;
     }
 }

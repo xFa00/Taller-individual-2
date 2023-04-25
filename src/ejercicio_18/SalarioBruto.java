@@ -6,9 +6,9 @@ package ejercicio_18;
 
 public class SalarioBruto {
     public static double calcularSalarioB(int horasT, int valorH){
-    double salarioB;    
-    salarioB = horasT*valorH;
-    return salarioB;
+     double salarioB;    
+     salarioB = horasT*valorH;
+     return salarioB;
     
     } 
 }
