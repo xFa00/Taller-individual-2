@@ -138,7 +138,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_btnCalcularActionPerformed
 
     private void btnSalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSalirActionPerformed
-       dispose();
+        dispose();
     }//GEN-LAST:event_btnSalirActionPerformed
 
     /**
