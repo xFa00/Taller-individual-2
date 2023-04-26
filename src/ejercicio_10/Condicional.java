@@ -11,7 +11,7 @@ public class Condicional {
         
         if(patrimonio>2000000 && estrato>3){
            matricula = (50000) + (patrimonio*0.03);
-            return matricula;
+           return matricula;
         }
         return 50000;
     }  

@@ -13,7 +13,7 @@ public class Ejercicio_10 {
     
     public static void main(String[] args) {
        VentanaPrincipal ventana= new VentanaPrincipal(); //Constructor ventana
-       ventana.setVisible(true);//Metodo para hacer visible la ventana
+       ventana.setVisible(true);//Metodo para hacer visible la ventanaa
     }
     
 }

@@ -16,9 +16,9 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     private VentanaDos ventanaDos;
     
     public VentanaPrincipal() {
-        initComponents();
-        ventanaDos = new VentanaDos(); 
-        ventanaDos.setVisible(true);
+         initComponents();
+         ventanaDos = new VentanaDos(); 
+         ventanaDos.setVisible(true);
     }
 
     /**
