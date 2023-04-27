@@ -3,6 +3,9 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>Ejercicio 7</name>
+            <name>Ejercicio_10</name>
+            <name>Ejercicio 18</name>
             <name>Ejercicio 19</name>
             <source-roots>
                 <root id="src.dir"/>
