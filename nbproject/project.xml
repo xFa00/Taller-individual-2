@@ -3,6 +3,14 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>Ejercicio 23</name>
+            <name>Ejercicio 7</name>
+            <name>Ejercicio_10</name>
+            <name>Ejercicio 18</name>
+            <name>Ejercicio 19</name>
+            <name>Ejercicio_22</name>
+            <name>Ejercicio_40</name>
+            <name>Ejercicio_41</name>
             <name>FigurasGeometria</name>
             <source-roots>
                 <root id="src.dir"/>
